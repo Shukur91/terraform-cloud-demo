@@ -12,4 +12,7 @@ output public_subnets {
 
 
 
+output azs {
+    value = module.vpc.azs
+}
 

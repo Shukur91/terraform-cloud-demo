@@ -35,7 +35,7 @@ resource "aws_elb" "bar" {
 
 
 
-]
+
 
 
 listener {

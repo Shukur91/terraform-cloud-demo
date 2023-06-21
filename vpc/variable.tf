@@ -1,3 +1,3 @@
 variable region {
-    typy = string
+    type = string
 }

@@ -1,0 +1,3 @@
+variable region {
+    typy = string
+}
